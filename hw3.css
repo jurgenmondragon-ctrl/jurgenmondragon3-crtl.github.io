@@ -174,11 +174,11 @@ td.outputdata {
    font-weight: normal;
 }
 #close-alert {
-   background-colour: rgb(253, 253, 253);
+   background-colour: rgb(255,102,102);
    border-width: 1px;
    border-style: solid;
-   color: rgb(96, 112, 104);
-   border-color: rgb(96, 122, 104);
+   color: rgb(255,102,102);
+   border-color: rgb(255,102,102);
    font-size: 15px;
    font-weight: bold;
    height: 20px;
